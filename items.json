@@ -1,0 +1,17 @@
+{   
+    "CoreTestItem": {
+        "name": "CoreTestItem",
+        "cost": -1,
+        "id": 0
+    },
+    "Cobblestone": {
+        "name": "Cobblestone",
+        "cost": 1,
+        "id": 1
+    },
+    "Sword": {
+        "name": "Sword",
+        "cost": 12,
+        "id": 2
+    }
+}
